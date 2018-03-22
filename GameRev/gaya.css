@@ -1,0 +1,53 @@
+body
+		{
+			background-image: url("rumus.jpg");
+		}
+		#contain
+		{
+			text-align: center;
+			color:black;
+			background-color: #bab8b8;
+			box-shadow: 10px 5px black;
+			border:2px solid grey;
+			border-radius: 10px;
+			width: 80%;
+			height: 500px;
+			display: block;
+			margin-left:auto;
+			margin-right:auto;
+
+		}
+		#gmbrlv,#gmbrlv2,#gmbrlv3
+		{
+			width: 25px;
+			height: 20px;
+		}
+		#ktk
+		{
+			display: block;
+			margin-left: 550px;
+			margin-top: 30px;
+		}
+
+		#banner1
+		{
+			width: 250px;
+			height: 80px;
+		}
+		.btn
+		{
+			font-size: 24px;
+			padding:auto;
+			cursor: pointer;
+			transition-duration: 0.4s;
+			display: inline-block;
+			margin-top: 15px;
+			width: 40%;
+		}
+		.btn1:hover
+		{
+			background-color: aqua; 
+    		color: black; 
+    		border-radius: 10px;
+    		border: 2px solid grey;
+		}
